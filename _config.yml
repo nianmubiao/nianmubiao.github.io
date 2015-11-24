@@ -153,20 +153,12 @@ social:
     desc: Follow me on Vimeo
     share: false
 
-  - name: Vine
+  - name: 论坛
     icon: vine
-    username: 
-    url: 
+    username: hiddenwangcc   
+    url: http://upwith.me
     desc: Follow me on Vine
     share: false
-
-- name: 联系方式
-    icon: phone
-    username: 18769117536
-    url: #
-    desc: 请给我来电话
-    share: true
-
 
   - name: 微博
     icon: weibo
