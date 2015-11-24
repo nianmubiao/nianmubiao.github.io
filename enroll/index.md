@@ -15,3 +15,6 @@ You can find out more info about customizing your Jekyll theme, as well as basic
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
 [jekyll]: https://github.com/jekyll/jekyll
+
+
+哎呀我去，这个玩意说有多难用就有多难用
