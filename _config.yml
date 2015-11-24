@@ -160,6 +160,14 @@ social:
     desc: Follow me on Vine
     share: false
 
+
+  - name: 微博
+    icon: weibo
+    username: 易仁永澄
+    url: http://weibo.com/orangec
+    desc: 关注我的微博
+    share: true
+
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
