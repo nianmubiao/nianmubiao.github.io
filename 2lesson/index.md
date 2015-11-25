@@ -42,7 +42,7 @@ permalink: /lesson/
 
 此外还有常规的部分，比如说所有的课程资料、工具及模板、每月一次的答疑（可选）、目标动态调整指导等具体支撑，通过设置这些保障机制来帮助俱乐部的会员完成自己的年度目标制定。
 
-[!(我要报名)[http://77fm42.com1.z0.glb.clouddn.com/web-enroll.png]](#)
+[![我要报名](http://77fm42.com1.z0.glb.clouddn.com/web-enroll.png)](http://nianmubiao.com)
 
 
 ## 三、课程的具体安排是怎样的？
