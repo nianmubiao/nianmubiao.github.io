@@ -69,11 +69,16 @@ permalink: /enroll/
 
 如果您要报名参加课程，请首先填写报名表单，之后支付费用，若您不填写表单则无法获得后续各项服务。完成支付后将有专人和您进行联系（“理论串讲通道”除外）。请点击下方按钮填写报名表。
 
-![arrow](http://77fm42.com1.z0.glb.clouddn.com/web-arrow.png)
-[![报名表地址](http://77fm42.com1.z0.glb.clouddn.com/web-signin.png)]（http://form.mikecrm.com/f.php?t=7PhKcv）
+![arrow](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
+[![报名表地址](http://77fm42.com1.z0.glb.clouddn.com/web-signin.png)](http://form.mikecrm.com/f.php?t=7PhKcv)
 
 #### 付款信息
 
+您可以通过以下四种方式支付费用：
+1. **支付宝**。账号：**hiddenwangcc@gmail.com**，姓名验证：王永澄。
+2. **微店**。关注微信公众号：易仁永澄（runwithcc），输入关键词：**微店**，并选择排名第一的向组织揩油活动支付。**微店支付信用卡分期付款**。
+3. **银行卡**。工商银行，账号：6222021614006082108，姓名：王永澄，
+4. **微信支付**。添加
 
 
 
