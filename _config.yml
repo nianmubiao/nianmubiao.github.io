@@ -80,13 +80,6 @@ social:
     desc: Friend me on Facebook
     share: false
 
-- name: 微信
-    icon: wechat
-    username: Miss Up的微信
-    url: 
-    desc: 关注我的微博
-    share: true
-
   - name: 微博
     icon: weibo
     username: 易仁永澄
