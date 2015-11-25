@@ -48,7 +48,7 @@ permalink: /lesson/
 
 课程共分为四个阶段
 
-![课程阶段](http://77fm42.com1.z0.glb.clouddn.com/web-level.jpg)
+![课程阶段](http://77fm42.com1.z0.glb.clouddn.com/web-enrol.png)
 
 ### （一）报名及准备阶段
 - **起止时间**：11月24日 - 12月4日（20:00截止）
