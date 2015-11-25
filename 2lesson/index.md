@@ -88,3 +88,5 @@ permalink: /lesson/
 
 
 [![我要报名](http://77fm42.com1.z0.glb.clouddn.com/web-enrol.png)](http://nianmubiao.com/enroll/)
+
+—— 易仁永澄@2015年

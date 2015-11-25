@@ -1,8 +1,23 @@
 ---
 layout: page
-title: 报名
+title: 课程报名
 permalink: /enroll/
 ---
+
+欢迎您来到课程报名页面，在报名参加课程之前，我们必须明确以下概念：
+- **活动**：指第三届向组织揩油系列活动，该活动为期1个月、共设置17个活动，并包含**课程**内容，具体请查看：《[活动详情](http://nianmubiao.com/activity/)》。
+- **课程**：特指《年度目标制定实操及指导》课程，本课程将于12月6日、13日正式举办，课程介绍请见：《[课程介绍](http://nianmubiao.com/lesson/)》。
+
+本页内容为课程的报名介绍和通道，请务必认真查看详情。
+
+**配图**
+
+本期《年度目标制定实践及指导》按照提供课程服务的种类不同，共分为4种不同的报名通道，分别为：**导师助力通道**、**小组互助通道**、**独行学习通道**、**理论串讲通道**
+
+
+
+
+
 
 <img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
 
