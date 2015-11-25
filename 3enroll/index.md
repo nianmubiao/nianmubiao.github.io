@@ -33,7 +33,7 @@ permalink: /enroll/
 | 目标调整指导         |（可选购）              | （可选购）            |√                         |√                 |
 | 目标达成奖励         |-                      | -                   |√                         |√                 |
 | 定期主动跟踪         |-                      | -                   |-                         |√                 |
-| 导师一一辅导         |-                      | -                   |-                         |√                 |
+| 导师私人辅导         |-                      | -                   |-                         |√                 |
 | 保障目标达成         |-                      |  -                  |-                         |√                 |
 | 生涯发展咨询         |-                      | -                   |-                         |√                 |
 
@@ -41,7 +41,7 @@ permalink: /enroll/
 
 ### （一）理论串讲通道
 
-- **通道说明**：选择本通道的学员，仅参加**12月6日**上午举行的理论串讲会。
+- **通道说明**：选择本通道的学员，仅可参加**12月6日**上午举行的理论串讲会。
 - **投资价格**：199元/人
 - **增值服务**：本通道可选购**全年答疑包**，价格为299元/人，获得每月一次的答疑会、目标管理相关知识以及目标调整指导。
 
@@ -54,28 +54,26 @@ permalink: /enroll/
 ### （三）小组互助通道
 
 - **通道说明**：选择本通道的成员必须加入我们设置的小组机制（小组分组、担任组长、发布宣言、获取积分、小组排行、月度回顾、聚力攻坚、集体目标达成、小组基金等保障机制），用以提升目标达成的可能性，同时以参加11月28日举行的《如何进行年度回顾》课程，12月6日、13日举行的《年度目标制定实操及指导》课程和课程中包含的4次答疑会。
-- **投资价格**：3650元/人，平均每天10元。其中
+- **投资价格**：3650元/人（平均每天10元达成全年目标），其中1200元为小组督促基金，凡努力完成任务的伙伴可以领取1400元的回馈金。具体方案请参考课前给出的小组方案。
 
-此外，本通道可以选购**全年答疑包**，价格为299元/人，
+### （四）导师助力通道
 
-###
+- **通道说明**：本通道学员拥有本次课程的最高权益，除上述内容外，将获得易仁永澄老师的私人辅导，并确保年度目标最终达成。
+- **人员限定**：由于易仁永澄老师需要一对一辅导，所以本年度仅招募12人
+- **投资价格**：9800元/人
 
 ## 二、优惠政策
 
 
+## 三、报名方法
+
+如果您要报名参加课程，请首先填写报名表单，之后支付费用，若您不填写表单则无法获得后续各项服务。完成支付后将有专人和您进行联系（“理论串讲通道”除外）。请点击下方按钮填写报名表。
+
+![arrow](http://77fm42.com1.z0.glb.clouddn.com/web-arrow.png)
+[![报名表地址](http://77fm42.com1.z0.glb.clouddn.com/web-signin.png)]（http://form.mikecrm.com/f.php?t=7PhKcv）
+
+#### 付款信息
 
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
-
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
-
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
-
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
 
 
-哎呀我去，这个玩意说有多难用就有多难用
