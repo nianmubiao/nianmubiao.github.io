@@ -42,13 +42,15 @@ permalink: /lesson/
 
 此外还有常规的部分，比如说所有的课程资料、工具及模板、每月一次的答疑（可选）、目标动态调整指导等具体支撑，通过设置这些保障机制来帮助俱乐部的会员完成自己的年度目标制定。
 
-![我要报名](http://77fm42.com1.z0.glb.clouddn.com/web-enrol.png)
+[![我要报名](http://77fm42.com1.z0.glb.clouddn.com/web-enrol.png)](http://nianmubiao.com/enroll/)
+
+<a href="http://nianmubiao.com/enroll/">[![我要报名](http://77fm42.com1.z0.glb.clouddn.com/web-enrol.png)]</a>
 
 ## 三、课程的具体安排是怎样的？
 
 课程共分为四个阶段
 
-![课程阶段](http://77fm42.com1.z0.glb.clouddn.com/web-enrol.png)
+![课程阶段](http://77fm42.com1.z0.glb.clouddn.com/web-level.jpg)
 
 ### （一）报名及准备阶段
 - **起止时间**：11月24日 - 12月4日（20:00截止）
@@ -86,4 +88,5 @@ permalink: /lesson/
 
 好了，既然已经是第三年搞活动了，我们就不说那么多了，请您点击下方的报名图标进入报名页面报名参加吧。别忘了，11月27日之前您将获得早鸟福利，快来吧，我们的小组机制在等着您呢！
 
-![我要报名](http://77fm42.com1.z0.glb.clouddn.com/web-enrol.png)
+
+[![我要报名](http://77fm42.com1.z0.glb.clouddn.com/web-enrol.png)](http://nianmubiao.com/enroll/)
