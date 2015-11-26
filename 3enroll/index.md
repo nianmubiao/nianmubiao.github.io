@@ -114,4 +114,4 @@ permalink: /enroll/
 请点击下方按钮填写您的支付表单。
 
 ![arrow](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
-[![报名表地址](http://77fm42.com1.z0.glb.clouddn.com/web-pay.png)](http://form.mikecrm.com/f.php?t=7PhKcv)
+[![报名表地址](http://77fm42.com1.z0.glb.clouddn.com/web-pay.png)](http://form.mikecrm.com/f.php?t=nA3zLi)
