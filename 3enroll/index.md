@@ -37,7 +37,7 @@ permalink: /enroll/
 | 保障目标达成         |-                      |  -                  |-                         |√                 |
 | 生涯发展咨询         |-                      | -                   |-                         |√                 |
 
-**配图**
+![通道费用说明](http://77fm42.com1.z0.glb.clouddn.com/web-ltdpay.jpg)
 
 ### （一）理论串讲通道
 
