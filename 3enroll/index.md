@@ -83,12 +83,9 @@ permalink: /enroll/
 
 无论您是谁（老学员、管理层、CEO学员），只要您参加本期活动，必须按照下述要求执行：
 
-> 首先填写报名表单，之后支付费用，若您不填写表单则无法获得后续各项服务。完成支付后将有专人和您进行联系（“理论串讲通道”除外）。
-
-请点击下方按钮填写报名表。
-
-![arrow](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
-[![报名表地址](http://77fm42.com1.z0.glb.clouddn.com/web-signin.png)](http://form.mikecrm.com/f.php?t=7PhKcv)
+1. 首先选择您本期要报名的通道；
+2. 其次支付相应费用，请支付该通道的全部金额（各类福利待12月28日集中返还）；
+3. 最后填写支付确认表单。
 
 #### 付款信息
 
@@ -105,3 +102,11 @@ permalink: /enroll/
 
 ![微信](http://77fm42.com1.z0.glb.clouddn.com/pay-wx.jpg)
 **微信支付**。添加幸福进化俱乐部助手Miss Up，微信号为：upwithup，并转账。
+
+#### 确认表单
+
+
+请点击下方按钮填写您的支付表单。
+
+![arrow](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
+[![报名表地址](http://77fm42.com1.z0.glb.clouddn.com/web-pay.png)](http://form.mikecrm.com/f.php?t=7PhKcv)
