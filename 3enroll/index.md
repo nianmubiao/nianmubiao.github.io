@@ -66,6 +66,8 @@ permalink: /enroll/
 
 ![优惠福利](http://77fm42.com1.z0.glb.clouddn.com/web-fuli.jpg)
 
+> 有关Boom券、Only券的相关信息，请具体查看“[代金礼券](http://nianmubiao.com/djq/)”，请务必认真查看以免无法领取相应优惠。
+
 ### （一）早鸟福利
 
 - **2015年11月27日20:00**前报名任意通道者，赠送11月28日《如何进行年度回顾》课程以及100元Boom券一张。
