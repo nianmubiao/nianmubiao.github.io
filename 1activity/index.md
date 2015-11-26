@@ -17,6 +17,8 @@ permalink: /activity/
 - 时间：20:00 - 21:30
 - 地点：YY语音频道41859800
 
+![今日活动安排](http://77fm42.com1.z0.glb.clouddn.com/web-today.jpg)
+
 ### 11月26日 | 周四：在年目标指导下的一年收获
 
 - 分享人：药山
