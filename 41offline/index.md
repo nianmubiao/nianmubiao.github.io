@@ -49,6 +49,17 @@ permalink: /offline/
 
 ![北京幸福进化俱乐部微信群](http://77fm42.com1.z0.glb.clouddn.com/o-bj.jpg)
 
+### G-广州
+
+- 本期活动限额：10人
+- 联系人：Candice
+- 微信：zhoujian1983
+- 电话：15521106315
+
+扫描二维码加入广州进化俱乐部微信群，参与日常线下活动。
+
+![广州幸福进化俱乐部微信群](http://77fm42.com1.z0.glb.clouddn.com/o-gz.jpg)
+
 ### J-济南
 
 - 本期活动限额：5人
