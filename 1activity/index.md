@@ -25,13 +25,13 @@ permalink: /activity/
 - 地点：YY语音频道24550515
 - 资料下载：[点击下载音频、视频、课件、笔记](http://pan.baidu.com/s/1eQz5ptS)
 
-![今日活动安排](http://77fm42.com1.z0.glb.clouddn.com/web-today.jpg)
-
 ### 11月27日 | 周五：社群讨论-我是如何分类的
 
 - 主持人：马琦博士
 - 时间：16:00-16:45
 - 地点：QQ群245505155、287999854
+
+![今日活动安排](http://77fm42.com1.z0.glb.clouddn.com/web-today.jpg)
 
 ### 11月28日 | 周六：如何进行年度回顾
 
