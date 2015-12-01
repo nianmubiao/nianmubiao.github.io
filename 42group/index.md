@@ -7,7 +7,7 @@ permalink: /group/
 
 ## 已组队小组
 
-### 小组：BBD
+### 1号小组：BBD
 
 ![小组：BBD](http://77fm42.com1.z0.glb.clouddn.com/group-bbd.jpg)
 
@@ -15,7 +15,7 @@ permalink: /group/
 - 【口号】：天下最棒，舍我其谁
 - 【角色】：组长-黄莹娣、秘书-张乐乐、副秘书-黄茜茜
 
-### 小组：千里跬步
+### 2号小组：千里跬步
 
 ![小组：千里跬步](http://77fm42.com1.z0.glb.clouddn.com/group-qlkb.jpg)
 
@@ -23,7 +23,7 @@ permalink: /group/
 - 【口号】：一起胜利加薪
 - 【角色】：组长-黄加一、秘书-汝丽婧、副秘书-姚佳琪
 
-### 小组：六六大顺
+### 3号小组：六六大顺
 
 ![小组：六六大顺](http://77fm42.com1.z0.glb.clouddn.com/group-66ds.jpg)
 
