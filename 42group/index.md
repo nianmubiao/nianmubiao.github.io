@@ -7,7 +7,7 @@ permalink: /group/
 
 ## 已组队小组
 
-#### 小组：BBD
+### 小组：BBD
 
 ![小组：BBD](http://77fm42.com1.z0.glb.clouddn.com/group-bbd.jpg)
 
