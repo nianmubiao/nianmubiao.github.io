@@ -58,7 +58,7 @@ permalink: /offline/
 
 点击下方图片，报名参加广州线下活动：
 ![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
-[![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-beijing.png)](http://form.mikecrm.com/f.php?t=uzOiLa)
+[![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-guangzhou.png)](http://form.mikecrm.com/f.php?t=uzOiLa)
 
 ### J-济南
 
@@ -69,7 +69,7 @@ permalink: /offline/
 
 点击下方图片，报名参加济南线下活动：
 ![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
-[![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-beijing.png)](http://happyjinan.mikecrm.com/f.php?t=7E0zMh)
+[![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-jinan.png)](http://happyjinan.mikecrm.com/f.php?t=7E0zMh)
 
 ### K-昆明
 
@@ -80,7 +80,7 @@ permalink: /offline/
 
 点击下方图片，报名参加昆明线下活动：
 ![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
-[![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-beijing.png)](http://form.mikecrm.com/f.php?t=Nw2JPV)
+[![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-kunming.png)](http://form.mikecrm.com/f.php?t=Nw2JPV)
 
 ### S-上海
 
@@ -91,7 +91,7 @@ permalink: /offline/
 
 点击下方图片，报名参加上海线下活动：
 ![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
-[![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-beijing.png)](http://form.mikecrm.com/f.php?t=GYdv8e)
+[![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-shanghai.png)](http://form.mikecrm.com/f.php?t=GYdv8e)
 
 ### S-深圳
 
@@ -102,7 +102,7 @@ permalink: /offline/
 
 点击下方图片，报名参加深圳线下活动：
 ![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
-[![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-beijing.png)](http://form.mikecrm.com/f.php?t=zJm2fH)
+[![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-shenzhen.png)](http://form.mikecrm.com/f.php?t=zJm2fH)
 
 ### Z-郑州
 
@@ -113,7 +113,7 @@ permalink: /offline/
 
 点击下方图片，报名参加深圳线下活动：
 ![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
-[![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-beijing.png)](http://form.mikecrm.com/f.php?t=iDbH6d)
+[![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-zhengzhou.png)](http://form.mikecrm.com/f.php?t=iDbH6d)
 
 ### 更多组织正在添加中
 
