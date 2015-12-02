@@ -49,6 +49,17 @@ permalink: /offline/
 ![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
 [![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-beijing.png)](http://form.mikecrm.com/f.php?t=bQ6Sbj)
 
+### C-长沙
+
+- 本期活动限额：8人
+- 联系人：彭玄霏
+- 微信：13975814624
+- 电话：13975814624
+
+点击下方图片，报名参加长沙线下活动：
+![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
+[![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-changsha.png)](http://form.mikecrm.com/f.php?t=pnYOkO)
+
 ### G-广州
 
 - 本期活动限额：10人
@@ -104,17 +115,6 @@ permalink: /offline/
 ![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
 [![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-shenzhen.png)](http://form.mikecrm.com/f.php?t=zJm2fH)
 
-### Z-郑州
-
-- 本期活动限额：10人
-- 联系人：三姿慧
-- 微信：sanzihui
-- 电话：18530035767
-
-点击下方图片，报名参加郑州线下活动：
-![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
-[![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-zhengzhou.png)](http://form.mikecrm.com/f.php?t=iDbH6d)
-
 ### S-苏州
 
 - 本期活动限额：10人
@@ -126,17 +126,16 @@ permalink: /offline/
 ![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
 [![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-suzhou1.png)](http://form.mikecrm.com/f.php?t=G8tF1d)
 
-### C-长沙
+### Z-郑州
 
-- 本期活动限额：8人
-- 联系人：彭玄霏
-- 微信：13975814624
-- 电话：13975814624
+- 本期活动限额：10人
+- 联系人：三姿慧
+- 微信：sanzihui
+- 电话：18530035767
 
-点击下方图片，报名参加长沙线下活动：
+点击下方图片，报名参加郑州线下活动：
 ![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
-[![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-changsha.png)](http://form.mikecrm.com/f.php?t=pnYOkO)
-
+[![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-zhengzhou.png)](http://form.mikecrm.com/f.php?t=iDbH6d)
 
 ### 更多组织正在添加中
 
