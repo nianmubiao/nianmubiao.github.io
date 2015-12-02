@@ -45,9 +45,9 @@ permalink: /offline/
 - 微信：zhoujian1983
 - 电话：18611696891
 
-扫描二维码加入北京进化俱乐部微信群，参与日常线下活动。
-
-![北京幸福进化俱乐部微信群](http://77fm42.com1.z0.glb.clouddn.com/o-bj.jpg)
+点击下方图片，报名参加北京线下活动：
+![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
+[![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-beijing.png)](http://form.mikecrm.com/f.php?t=bQ6Sbj)
 
 ### G-广州
 
