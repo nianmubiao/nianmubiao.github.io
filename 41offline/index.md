@@ -56,9 +56,9 @@ permalink: /offline/
 - 微信：zhinan-1990
 - 电话：15521106315
 
-扫描二维码加入广州进化俱乐部微信群，参与日常线下活动。
-
-![广州幸福进化俱乐部微信群](http://77fm42.com1.z0.glb.clouddn.com/o-gz.jpg)
+点击下方图片，报名参加广州线下活动：
+![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
+[![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-beijing.png)](http://form.mikecrm.com/f.php?t=uzOiLa)
 
 ### J-济南
 
@@ -67,9 +67,9 @@ permalink: /offline/
 - 微信：maidong2008
 - 电话：13864081374
 
-扫描二维码加入济南进化俱乐部微信群，参与日常线下活动。
-
-![济南幸福进化俱乐部微信群](http://77fm42.com1.z0.glb.clouddn.com/o-jn.jpg)
+点击下方图片，报名参加济南线下活动：
+![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
+[![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-beijing.png)](http://happyjinan.mikecrm.com/f.php?t=7E0zMh)
 
 ### K-昆明
 
@@ -78,9 +78,9 @@ permalink: /offline/
 - 微信：15969574524
 - 电话：15969574524
 
-扫描二维码加入昆明进化俱乐部微信群，参与日常线下活动。
-
-![昆明幸福进化俱乐部微信群](http://77fm42.com1.z0.glb.clouddn.com/o-km.jpg)
+点击下方图片，报名参加昆明线下活动：
+![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
+[![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-beijing.png)](http://form.mikecrm.com/f.php?t=Nw2JPV)
 
 ### S-上海
 
@@ -89,9 +89,9 @@ permalink: /offline/
 - 微信：J237186
 - 电话：18121069140
 
-扫描二维码加入上海进化俱乐部微信群，参与日常线下活动。
-
-![上海幸福进化俱乐部微信群](http://77fm42.com1.z0.glb.clouddn.com/o-sh.jpg)
+点击下方图片，报名参加上海线下活动：
+![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
+[![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-beijing.png)](http://form.mikecrm.com/f.php?t=GYdv8e)
 
 ### S-深圳
 
@@ -100,9 +100,9 @@ permalink: /offline/
 - 微信：summer981210
 - 电话：13602580314
 
-扫描二维码加入深圳进化俱乐部微信群，参与日常线下活动。
-
-![深圳幸福进化俱乐部微信群](http://77fm42.com1.z0.glb.clouddn.com/o-sz.jpg)
+点击下方图片，报名参加深圳线下活动：
+![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
+[![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-beijing.png)](http://form.mikecrm.com/f.php?t=zJm2fH)
 
 ### Z-郑州
 
@@ -111,9 +111,9 @@ permalink: /offline/
 - 微信：sanzihui
 - 电话：18530035767
 
-扫描二维码加入郑州进化俱乐部微信群，参与日常线下活动。
-
-![郑州幸福进化俱乐部微信群](http://77fm42.com1.z0.glb.clouddn.com/o-zz.jpg)
+点击下方图片，报名参加深圳线下活动：
+![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
+[![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-beijing.png)](http://form.mikecrm.com/f.php?t=iDbH6d)
 
 ### 更多组织正在添加中
 
