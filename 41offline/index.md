@@ -111,7 +111,7 @@ permalink: /offline/
 - 微信：sanzihui
 - 电话：18530035767
 
-点击下方图片，报名参加深圳线下活动：
+点击下方图片，报名参加郑州线下活动：
 ![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
 [![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-zhengzhou.png)](http://form.mikecrm.com/f.php?t=iDbH6d)
 
