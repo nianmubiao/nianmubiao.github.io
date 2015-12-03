@@ -50,13 +50,13 @@ permalink: /activity/
 - 时间：20:00 - 21:30
 - 地点：YY语音频道24550515
 
-![今日活动安排](http://77fm42.com1.z0.glb.clouddn.com/web-today.jpg)
-
 ### 12月03日 | 周四：社群讨论-价值观主题讨论
 
 - 主持人：马琦博士
 - 时间：16:00 - 16:45
 - 地点：QQ群245505155、287999854
+
+![今日活动安排](http://77fm42.com1.z0.glb.clouddn.com/web-today.jpg)
 
 ### 12月04日 | 周五：课程活动启动宣讲会
 
