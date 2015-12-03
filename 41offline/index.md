@@ -114,6 +114,7 @@ permalink: /offline/
 点击下方图片，报名参加昆明线下活动：
 ![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
 [![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-nanning.png)](http://upwithsun.mikecrm.com/f.php?t=RjuQOt)
+
 ### S-上海
 
 - 本期活动限额：30人
