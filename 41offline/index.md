@@ -71,6 +71,17 @@ permalink: /offline/
 ![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
 [![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-guangzhou.png)](http://form.mikecrm.com/f.php?t=uzOiLa)
 
+### H-杭州
+
+- 本期活动限额：6人
+- 联系人：碧落
+- 微信：vermouth9_2011
+- 电话：13656656705
+
+点击下方图片，报名参加广州线下活动：
+![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
+[![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-hangzhou.png)](http://form.mikecrm.com/f.php?t=DVSjaa)
+
 ### J-济南
 
 - 本期活动限额：5人
