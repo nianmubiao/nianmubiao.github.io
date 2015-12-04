@@ -4,9 +4,9 @@ title: 常见问题
 permalink: /qanda/
 ---
 
-如果您有任何问题，请点击下表提交，我们将在1小时内在本页中给您反馈。
+如果您有任何问题，请点击下表提交，我们将尽快给您反馈。
 
-[![点击提交问题](http://77fm42.com1.z0.glb.clouddn.com/web-qa.png)](mailto:ceo@runwith.cc)
+[![点击提交问题](http://77fm42.com1.z0.glb.clouddn.com/web-qa.png)](http://form.mikecrm.com/f.php?t=IRcfp5)
 
 ## Q：我到底要报名哪个通道？您有什么建议？
 
