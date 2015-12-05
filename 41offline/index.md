@@ -78,7 +78,7 @@ permalink: /offline/
 - 微信：vermouth9_2011
 - 电话：13656656705
 
-点击下方图片，报名参加广州线下活动：
+点击下方图片，报名参加杭州线下活动：
 ![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
 [![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-hangzhou.png)](http://form.mikecrm.com/f.php?t=DVSjaa)
 
@@ -111,7 +111,7 @@ permalink: /offline/
 - 微信：liuyang379792
 - 电话：15078845550
 
-点击下方图片，报名参加昆明线下活动：
+点击下方图片，报名参加南宁线下活动：
 ![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
 [![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-nanning.png)](http://upwithsun.mikecrm.com/f.php?t=RjuQOt)
 
