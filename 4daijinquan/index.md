@@ -13,6 +13,14 @@ permalink: /djq/
 ![BOO券神经视频](http://v.qq.com/iframe/player.html?vid=j01750vx5ia&tiny=0&auto=1)
 iframe frameborder="0" width=100% height="498" src="" allowfullscreen></iframe>
 
+Idina Menze和Caleb Hyles激情对唱Let It Go：<iframe height=498 width=510 src="http://player.youku.com/embed/XNjcyMDU4Njg0" frameborder=0 allowfullscreen></iframe>
+
+<iframe frameborder="0" width=100% height="498" src="http://v.qq.com/iframe/player.html?vid=j01750vx5ia&tiny=0" allowfullscreen></iframe>
+
+[勇哥在此](iframe frameborder="0" width=100% height="498" src="http://v.qq.com/iframe/player.html?vid=j01750vx5ia&tiny=0" allowfullscreen)</iframe>
+
+[勇哥在此2]((iframe frameborder="0" width=100% height="498" src="http://v.qq.com/iframe/player.html?vid=j01750vx5ia&tiny=0" allowfullscreen)/iframe)
+
 ## 二、代金券具体介绍
 
 代金券是我们为本期活动中的核心课程——《年度目标制定实践及指导》提供的优惠福利， 相关说明如下：
