@@ -10,6 +10,17 @@ permalink: /djq/
 
 “向组织揩油”是幸福进化俱乐部推出的年度目标制订类综合性活动，本活动迄今已举办3届。本期活动中，幸福进化俱乐部安排近1个月共17项成长活动，其中包括：学员分享、社群讨论、集体分享和导师指点等丰富多彩的活动。所有活动都有录音录屏，有了如此好玩又密集的系列活动，您可以全速启动您的年目标制订进程啦！更多活动咨询请[点击查看活动详情](http://nianmubiao.com/activity/)页面。
 
+
+<iframe frameborder="0" width=100% height="498" src="http://v.qq.com/iframe/player.html?vid=j01750vx5ia&tiny=0&auto=1" allowfullscreen></iframe>
+
+<p>活动的具体举办时间、地点以及已完成活动的相关资料，请您点击：《<a href="http://nianmubiao.com/intro/2015/11/24/Detail-of-the-whole-party.html" target="_blank">第三届向组织揩油综合活动详细说明</a>》查看详情。</p>
+
+<img src="http://77fm42.com1.z0.glb.clouddn.com/web-arr.png" />
+
+此外，列表中加粗部分的“如何进行年度回顾”、“年度目标制定实操及指导”部分可能涉及费用，请您移步至导航条的“<a href="http://nianmubiao.com/lesson/">课程介绍</a>”页面查看详情，并选择相应的通道报名参加该活动。
+
+<hr />
+
 ## 二、代金券具体介绍
 
 代金券是我们为本期活动中的核心课程——《年度目标制定实践及指导》提供的优惠福利， 相关说明如下：
