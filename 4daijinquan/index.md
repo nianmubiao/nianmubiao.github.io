@@ -17,9 +17,9 @@ Idina Menze和Caleb Hyles激情对唱Let It Go：<iframe height=498 width=510 sr
 
 <iframe frameborder="0" width=100% height="498" src="http://v.qq.com/iframe/player.html?vid=j01750vx5ia&tiny=0" allowfullscreen></iframe>
 
-[勇哥在此](iframe frameborder="0" width=100% height="498" src="http://v.qq.com/iframe/player.html?vid=j01750vx5ia&tiny=0" allowfullscreen)</iframe>
+[勇哥在此](http://v.qq.com/iframe/player.html?vid=j01750vx5ia&tiny=0)
 
-[勇哥在此2]((iframe frameborder="0" width=100% height="498" src="http://v.qq.com/iframe/player.html?vid=j01750vx5ia&tiny=0" allowfullscreen)/iframe)
+[勇哥在此2]((frameborder="0" width=100% height="498" src="http://v.qq.com/iframe/player.html?vid=j01750vx5ia&tiny=0" allowfullscreen)/iframe)
 
 ## 二、代金券具体介绍
 
