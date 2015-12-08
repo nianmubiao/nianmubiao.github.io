@@ -140,7 +140,7 @@ permalink: /group/
 ![小组：伐木累](http://77fm42.com1.z0.glb.clouddn.com/group-bcbfml.png)
 
 - 【组员】：赵乾、翁静雅、徐冬、殷俊、韩一民、韩璐
-- 【口号】：WE ARE
+- 【口号】：WE ARE 伐木累
 - 【角色】：组长-赵乾　组长秘书-翁静雅　组长副秘书-徐冬
 
 ## 尚未组队的本期学员情况
