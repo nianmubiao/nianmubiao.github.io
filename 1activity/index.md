@@ -74,14 +74,14 @@ permalink: /activity/
 - 地点：YY语音频道41859800
 - 说明：本活动至少需要报名“理论串讲通道”才能参加本活动，请具体查看[课程报名](http://nianmubiao.com/enroll/)
 
-![今日活动安排](http://77fm42.com1.z0.glb.clouddn.com/web-today.jpg)
-
 ### 12月06日 | 周日：年度目标制定实操及指导-01
 
 - 分享人：易仁永澄
 - 时间：14:00 - 17:30
 - 地点：YY语音频道41859800
 - 说明：本活动至少需要报名“独行学习通道”才能参加本活动，请具体查看[课程报名](http://nianmubiao.com/enroll/)
+
+![今日活动安排](http://77fm42.com1.z0.glb.clouddn.com/web-today.jpg)
 
 ### 12月08日 | 周二：年度目标制定答疑会
 
