@@ -18,6 +18,14 @@ permalink: /djq/
 
 此外，列表中加粗部分的“如何进行年度回顾”、“年度目标制定实操及指导”部分可能涉及费用，请您移步至导航条的“<a href="http://nianmubiao.com/lesson/">课程介绍</a>”页面查看详情，并选择相应的通道报名参加该活动。
 
+<iframe frameborder="0" width=100% height="498" src="http://v.qq.com/iframe/player.html?vid=j01750vx5ia&tiny=0&auto=1" allowfullscreen></iframe>
+
+<p>活动的具体举办时间、地点以及已完成活动的相关资料，请您点击：《<a href="http://nianmubiao.com/intro/2015/11/24/Detail-of-the-whole-party.html" target="_blank">第三届向组织揩油综合活动详细说明</a>》查看详情。</p>
+
+<img src="http://77fm42.com1.z0.glb.clouddn.com/web-arr.png" />
+
+此外，列表中加粗部分的“如何进行年度回顾”、“年度目标制定实操及指导”部分可能涉及费用，请您移步至导航条的“<a href="http://nianmubiao.com/lesson/">课程介绍</a>”页面查看详情，并选择相应的通道报名参加该活动。
+
 <hr />
 
 ## 二、代金券具体介绍
