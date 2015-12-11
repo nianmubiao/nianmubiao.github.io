@@ -168,7 +168,7 @@ permalink: /offline/
 
 点击下方图片，报名参加珠海线下活动：
 ![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
-[![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-zhengzhou.png)](http://form.mikecrm.com/f.php?t=nIfkqO)
+[![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-zhuhai.psd)](http://form.mikecrm.com/f.php?t=nIfkqO)
 
 ### 更多组织正在添加中
 
