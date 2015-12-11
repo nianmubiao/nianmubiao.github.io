@@ -159,6 +159,17 @@ permalink: /offline/
 ![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
 [![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-zhengzhou.png)](http://form.mikecrm.com/f.php?t=iDbH6d)
 
+### Z-珠海
+
+- 本期活动限额：10人
+- 联系人：休止符
+- 微信：sinlay000
+- 电话：13427767674
+
+点击下方图片，报名参加珠海线下活动：
+![箭头](http://77fm42.com1.z0.glb.clouddn.com/web-arr.png)
+[![点击报名](http://77fm42.com1.z0.glb.clouddn.com/off-zhengzhou.png)](http://form.mikecrm.com/f.php?t=nIfkqO)
+
 ### 更多组织正在添加中
 
 ## 四、我的城市没有线下组织怎么办？
