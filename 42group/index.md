@@ -137,7 +137,7 @@ permalink: /group/
 
 ### 17号小组：野兽派
 
-![小组：野兽派](http://77fm42.com1.z0.glb.clouddn.com/000001_副本.jpg)
+![小组：野兽派](http://77fm42.com1.z0.glb.clouddn.com/group-17ysp.jpg)
 
 - 【组员】：赵乾、翁静雅、徐冬、殷俊、韩一民、韩璐
 - 【口号】：鬼马精英，狩猎人生
