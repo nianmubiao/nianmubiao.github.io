@@ -30,7 +30,7 @@ permalink: /activity/
 - 主持人：马琦博士
 - 时间：16:00-16:45
 - 地点：QQ群245505155、287999854
-- 资料下载：[点击下载音频、视频、课件、笔记](http://bbs.upwith.me/club-3713-1-1.html)
+- 点击查看详请：[【社群讨论】个人分类主题讨论](http://bbs.upwith.me/club-3713-1-1.html)
 
 ### 11月28日 | 周六：如何进行年度回顾
 
@@ -44,7 +44,7 @@ permalink: /activity/
 - 主持人：刘志勇
 - 时间：16:00 - 16:45
 - 地点：QQ群245505155、287999854
-- 资料下载：[点击下载音频、视频、课件、笔记](http://bbs.upwith.me/club-3752-1-1.html)
+- 点击查看详请：[【社群讨论】如何找到自己的成长定位](http://bbs.upwith.me/club-3752-1-1.html)
 
 ### 12月02日 | 周三：集体分享-我们一起玩年度目标
 
@@ -102,8 +102,6 @@ permalink: /activity/
 - 地点：YY语音频道41859800
 - 说明：本活动至少需要报名“独行学习通道”才能参加本活动，请具体查看[课程报名](http://nianmubiao.com/enroll/)
 
-![今日活动安排](http://77fm42.com1.z0.glb.clouddn.com/web-today.jpg)
-
 ### 12月15日 | 周二：年度目标制定答疑会
 
 - 分享人：易仁永澄
@@ -116,6 +114,8 @@ permalink: /activity/
 - 时间：20:00 - 21:30
 - 地点：YY语音频道41859800
 - 说明：本活动至少需要报名“独行学习通道”才能参加本活动，请具体查看[课程报名](http://nianmubiao.com/enroll/)
+
+![今日活动安排](http://77fm42.com1.z0.glb.clouddn.com/web-today.jpg)
 
 ### 12月27日 | 周日：年度目标制定表彰大会暨全年目标达成计划启动
 
