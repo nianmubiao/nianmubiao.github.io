@@ -169,7 +169,7 @@ permalink: /group/
 
 ### 21号小组：重案六组
 
-![小组：重案六组](http://77fm42.com1.z0.glb.clouddn.com/group-zalz.jpg)
+![小组：重案六组](http://77fm42.com1.z0.glb.clouddn.com/group-zalz2.jpg)
 
 - 【组员】：吴慧娟、何增伟、吴燕、钟亦凡、百宝团、黄琼
 - 【口号】：六人同心，搞定重案！
