@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: page
 title: 代金礼券
 permalink: /djq/
 ---
