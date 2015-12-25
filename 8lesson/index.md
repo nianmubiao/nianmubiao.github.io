@@ -1,7 +1,7 @@
 ---
 layout: 
 title: 课程介绍
-permalink: /lesson-o/
+permalink: /lesson/
 ---
 
 # 《年度目标制定实践及指导》课程综合介绍说明
