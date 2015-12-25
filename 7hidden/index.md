@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 活动详情
+title: 隐藏内容
 permalink: /hidden/
 ---
 
