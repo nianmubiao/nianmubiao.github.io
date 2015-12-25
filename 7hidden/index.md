@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: 
 title: 隐藏内容
 permalink: /hidden/
 ---
