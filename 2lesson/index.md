@@ -72,11 +72,6 @@ permalink: /lesson/
 - 做出科学的年度目标体系
 价值：不低于1000元
 
-- 大幅度节省宝贵时间
-
-![节省时间](http://77fm42.com1.z0.glb.clouddn.com/ky-workflow.jpg)
-价值：年薪×探索时间
-
 - 达成目标可能性更大
 价值：不低于3000元
 
