@@ -38,30 +38,30 @@ tags: 优秀资源
 
 ### 笔记感受
 
-* 王俊宇-小生：[2016揩油-拾捌菇凉分享感受](http://www.jianshu.com/p/f4f93821d219)
-* 王俊宇-小生：[2016揩油-怪蜀黍药山大神教我做年计划](http://www.jianshu.com/p/ba4e14bd8bea)
-* 王俊宇-小生：[2016揩油-目标体系的思考](http://www.jianshu.com/p/f9b8bcc422c3#)
+* 王浚宇-小生：[2016揩油-拾捌菇凉分享感受](http://www.jianshu.com/p/f4f93821d219)
+* 王浚宇-小生：[2016揩油-怪蜀黍药山大神教我做年计划](http://www.jianshu.com/p/ba4e14bd8bea)
+* 王浚宇-小生：[2016揩油-目标体系的思考](http://www.jianshu.com/p/f9b8bcc422c3#)
 * 彭玄霏：[年度目标制订实践及指导 总论](http://www.jianshu.com/p/10df2df476a7)
 * 彭玄霏：[年度目标制订实践及指导 准备、战略](http://www.jianshu.com/p/30c69de086b3)
-* 王俊宇-小生：[【定位】提问作业感受-聊着聊着就聊出来了](http://www.jianshu.com/p/ac08eb1941d0)
-* 拾捌：[年度目标制定流程图](http://www.jianshu.com/p/bbc472377784)
-* 拾捌：[又是一年目标时](http://www.jianshu.com/p/c83a705908c2)
+* 王浚宇-小生：[【定位】提问作业感受-聊着聊着就聊出来了](http://www.jianshu.com/p/ac08eb1941d0)
+* 陈艺文-拾捌：[年度目标制定流程图](http://www.jianshu.com/p/bbc472377784)
+* 陈艺文-拾捌：[又是一年目标时](http://www.jianshu.com/p/c83a705908c2)
 * 翁静雅：[年目标梳理过程部分总结](http://bbs.upwith.me/forum.php?mod=redirect&goto=findpost&ptid=3761&pid=24006&fromuid=46)
 
 
 ### 实践范例
-* 药山： [高效能的个人SWOT分析](http://www.jianshu.com/p/86bb450a35a1)
-* 药山： [高能的圣诞树回顾模型](http://www.jianshu.com/p/012ab6a0e068)
+* 昝新-药山： [高效能的个人SWOT分析](http://www.jianshu.com/p/86bb450a35a1)
+* 昝新-药山： [高能的圣诞树回顾模型](http://www.jianshu.com/p/012ab6a0e068)
 * 黄加一：[【分类】时间开销的前世今生引发的分类思考](http://www.jianshu.com/p/f67608816c94)
 
 
 ### 小组互助
-* 王俊宇-小生： [2016揩油-指南针-启动会](http://www.jianshu.com/p/ad0a363b4252)
+* 王浚宇-小生： [2016揩油-指南针-启动会](http://www.jianshu.com/p/ad0a363b4252)
 
 
 ### 答疑精粹
-* 王俊宇-小生： [2016揩油-第一次答疑会有感（造星工厂）](http://www.jianshu.com/p/cd6a8fc9ee51)
-* 王俊宇-小生：[2016揩油-第二次答疑会有感-带着问题前行](http://www.jianshu.com/p/88fc14585a93)
+* 王浚宇-小生： [2016揩油-第一次答疑会有感（造星工厂）](http://www.jianshu.com/p/cd6a8fc9ee51)
+* 王浚宇-小生：[2016揩油-第二次答疑会有感-带着问题前行](http://www.jianshu.com/p/88fc14585a93)
 
 
 ### 线下总结
@@ -71,7 +71,7 @@ tags: 优秀资源
 
 ### 年度回顾
 * 拾捌： [350天，从零到一的蜕变](http://www.jianshu.com/p/ddb9e0ba9035)
-* 药山：[在年目标指导下的一年收获（上）](http://mp.weixin.qq.com/s?__biz=MzAxMzA0NjM1MQ==&mid=400512307&idx=1&sn=1685ee2ee6dbf952018d6eba303dd859&scene=1&srcid=1203R5WnmtcwxrIozOUCa57i&from=groupmessage&isappinstalled=0#wechat_redirect)
+* 昝新-药山：[在年目标指导下的一年收获（上）](http://mp.weixin.qq.com/s?__biz=MzAxMzA0NjM1MQ==&mid=400512307&idx=1&sn=1685ee2ee6dbf952018d6eba303dd859&scene=1&srcid=1203R5WnmtcwxrIozOUCa57i&from=groupmessage&isappinstalled=0#wechat_redirect)
 * 佳依：[2016-创想生命蓝图，打造丰盛人生](http://upwith.me/forum.php?mod=viewthread&tid=3651&extra=page%3D1&page=1)
 * 老包姑娘：[2016 跳上个人管理的黄线](http://bbs.upwith.me/club-3641-1-1.html)
 * 逯媛：[2016-雕刻隽永闪亮的自己](http://bbs.upwith.me/forum.php?mod=viewthread&tid=3741&extra=page%3D2)
