@@ -36,23 +36,6 @@ tags: 优秀资源
 
 ## 二、优秀内容展示
 
-### 年度回顾
-* 拾捌： [350天，从零到一的蜕变](http://www.jianshu.com/p/ddb9e0ba9035)
-* 药山：[在年目标指导下的一年收获（上）](http://mp.weixin.qq.com/s?__biz=MzAxMzA0NjM1MQ==&mid=400512307&idx=1&sn=1685ee2ee6dbf952018d6eba303dd859&scene=1&srcid=1203R5WnmtcwxrIozOUCa57i&from=groupmessage&isappinstalled=0#wechat_redirect)
-* 佳依：[2016-创想生命蓝图，打造丰盛人生](http://upwith.me/forum.php?mod=viewthread&tid=3651&extra=page%3D1&page=1)
-* 老包姑娘：[2016 跳上个人管理的黄线](http://bbs.upwith.me/club-3641-1-1.html)
-* 逯媛：[2016-雕刻隽永闪亮的自己](http://bbs.upwith.me/forum.php?mod=viewthread&tid=3741&extra=page%3D2)
-* 严旭新：[2016-蜕变 · 绽放--只为完美新生](http://bbs.upwith.me/forum.php?mod=viewthread&tid=3796&extra=page%3D2)
-* 草叶：[2016-全速启航，一切都是最好的安排](
-http://bbs.upwith.me/forum.php?mod=viewthread&tid=3728&extra=page%3D3)
-* 黄加一：[2016-分享||进步||被监督||喜悦@加一](http://bbs.upwith.me/club-3643-1-3.html)
-* 胡家铭 :  [2016-为了理想和面包的务实之路 ](http://bbs.upwith.me/club-3716-1-3.html)
-* 怪咖娜娜：[ 2016-做更好的自己 ](http://bbs.upwith.me/club-3844-1-4.html)
-* 易仁小生：[2016-走上快车道](http://bbs.upwith.me/club-3655-1-5.html)
-* 北方荣荣：[2016-实现目标的一年](http://bbs.upwith.me/club-3674-1-6.html)
-* 连国琦： [2016-在爱中前行@柒柒](http://bbs.upwith.me/forum.php?mod=viewthread&tid=3657&extra=)
-
-
 ### 笔记感受
 
 * 小生：[2016揩油-拾捌菇凉分享感受](http://www.jianshu.com/p/f4f93821d219)
@@ -84,6 +67,23 @@ http://bbs.upwith.me/forum.php?mod=viewthread&tid=3728&extra=page%3D3)
 ### 线下总结
 * 彭玄菲：[你怎忍不来？——长沙线下活动小记](http://www.jianshu.com/p/14e3a199e1a6)
 * 王永晴：[向组织揩油——深圳线下幸福进化俱乐部](http://www.jianshu.com/p/f60a0f130df4)
+
+
+### 年度回顾
+* 拾捌： [350天，从零到一的蜕变](http://www.jianshu.com/p/ddb9e0ba9035)
+* 药山：[在年目标指导下的一年收获（上）](http://mp.weixin.qq.com/s?__biz=MzAxMzA0NjM1MQ==&mid=400512307&idx=1&sn=1685ee2ee6dbf952018d6eba303dd859&scene=1&srcid=1203R5WnmtcwxrIozOUCa57i&from=groupmessage&isappinstalled=0#wechat_redirect)
+* 佳依：[2016-创想生命蓝图，打造丰盛人生](http://upwith.me/forum.php?mod=viewthread&tid=3651&extra=page%3D1&page=1)
+* 老包姑娘：[2016 跳上个人管理的黄线](http://bbs.upwith.me/club-3641-1-1.html)
+* 逯媛：[2016-雕刻隽永闪亮的自己](http://bbs.upwith.me/forum.php?mod=viewthread&tid=3741&extra=page%3D2)
+* 严旭新：[2016-蜕变 · 绽放--只为完美新生](http://bbs.upwith.me/forum.php?mod=viewthread&tid=3796&extra=page%3D2)
+* 草叶：[2016-全速启航，一切都是最好的安排](
+http://bbs.upwith.me/forum.php?mod=viewthread&tid=3728&extra=page%3D3)
+* 黄加一：[2016-分享||进步||被监督||喜悦@加一](http://bbs.upwith.me/club-3643-1-3.html)
+* 胡家铭 :  [2016-为了理想和面包的务实之路 ](http://bbs.upwith.me/club-3716-1-3.html)
+* 怪咖娜娜：[ 2016-做更好的自己 ](http://bbs.upwith.me/club-3844-1-4.html)
+* 易仁小生：[2016-走上快车道](http://bbs.upwith.me/club-3655-1-5.html)
+* 北方荣荣：[2016-实现目标的一年](http://bbs.upwith.me/club-3674-1-6.html)
+* 连国琦： [2016-在爱中前行@柒柒](http://bbs.upwith.me/forum.php?mod=viewthread&tid=3657&extra=)
 
 
 ## 三、优秀内容，快到碗里来
