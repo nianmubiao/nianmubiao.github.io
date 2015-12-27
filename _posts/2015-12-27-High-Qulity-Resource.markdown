@@ -38,12 +38,12 @@ tags: 优秀资源
 
 ### 笔记感受
 
-* 小生：[2016揩油-拾捌菇凉分享感受](http://www.jianshu.com/p/f4f93821d219)
-* 小生：[2016揩油-怪蜀黍药山大神教我做年计划](http://www.jianshu.com/p/ba4e14bd8bea)
-* 小生：[2016揩油-目标体系的思考](http://www.jianshu.com/p/f9b8bcc422c3#)
-* 彭玄菲：[年度目标制订实践及指导 总论](http://www.jianshu.com/p/10df2df476a7)
-* 彭玄菲：[年度目标制订实践及指导 准备、战略](http://www.jianshu.com/p/30c69de086b3)
-* 小生：【定位】[提问作业感受-聊着聊着就聊出来了](http://www.jianshu.com/p/ac08eb1941d0)
+* 王俊宇-小生：[2016揩油-拾捌菇凉分享感受](http://www.jianshu.com/p/f4f93821d219)
+* 王俊宇-小生：[2016揩油-怪蜀黍药山大神教我做年计划](http://www.jianshu.com/p/ba4e14bd8bea)
+* 王俊宇-小生：[2016揩油-目标体系的思考](http://www.jianshu.com/p/f9b8bcc422c3#)
+* 彭玄霏：[年度目标制订实践及指导 总论](http://www.jianshu.com/p/10df2df476a7)
+* 彭玄霏：[年度目标制订实践及指导 准备、战略](http://www.jianshu.com/p/30c69de086b3)
+* 王俊宇-小生：[【定位】提问作业感受-聊着聊着就聊出来了](http://www.jianshu.com/p/ac08eb1941d0)
 * 拾捌：[年度目标制定流程图](http://www.jianshu.com/p/bbc472377784)
 * 拾捌：[又是一年目标时](http://www.jianshu.com/p/c83a705908c2)
 * 翁静雅：[年目标梳理过程部分总结](http://bbs.upwith.me/forum.php?mod=redirect&goto=findpost&ptid=3761&pid=24006&fromuid=46)
@@ -52,20 +52,20 @@ tags: 优秀资源
 ### 实践范例
 * 药山： [高效能的个人SWOT分析](http://www.jianshu.com/p/86bb450a35a1)
 * 药山： [高能的圣诞树回顾模型](http://www.jianshu.com/p/012ab6a0e068)
-* 黄加一：【分类】[时间开销的前世今生引发的分类思考](http://www.jianshu.com/p/f67608816c94)
+* 黄加一：[【分类】时间开销的前世今生引发的分类思考](http://www.jianshu.com/p/f67608816c94)
 
 
 ### 小组互助
-* 小生： [2016揩油-指南针-启动会](http://www.jianshu.com/p/ad0a363b4252)
+* 王俊宇-小生： [2016揩油-指南针-启动会](http://www.jianshu.com/p/ad0a363b4252)
 
 
 ### 答疑精粹
-* 小生： [2016揩油-第一次答疑会有感（造星工厂）](http://www.jianshu.com/p/cd6a8fc9ee51)
-* 小生：[2016揩油-第二次答疑会有感-带着问题前行](http://www.jianshu.com/p/88fc14585a93)
+* 王俊宇-小生： [2016揩油-第一次答疑会有感（造星工厂）](http://www.jianshu.com/p/cd6a8fc9ee51)
+* 王俊宇-小生：[2016揩油-第二次答疑会有感-带着问题前行](http://www.jianshu.com/p/88fc14585a93)
 
 
 ### 线下总结
-* 彭玄菲：[你怎忍不来？——长沙线下活动小记](http://www.jianshu.com/p/14e3a199e1a6)
+* 彭玄霏：[你怎忍不来？——长沙线下活动小记](http://www.jianshu.com/p/14e3a199e1a6)
 * 王永晴：[向组织揩油——深圳线下幸福进化俱乐部](http://www.jianshu.com/p/f60a0f130df4)
 
 
