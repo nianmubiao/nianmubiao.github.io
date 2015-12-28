@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "第三届向组织揩油活动优秀资源汇总"
 date:   2015年12月27日18:46:47
 author: 马琦
