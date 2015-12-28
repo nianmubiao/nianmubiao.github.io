@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Dummy Post"
+date:   2015-04-18 08:43:59
+author: Ben Centra
+categories: Dummy
+---
+
+This is just a dummy post. Lorem ipsum and all the rest.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+## 一、系列活动
+第三届向组织揩油活动不仅包括两天核心的《年度目标制定实践及指导》课程，还在前期组织了一系列的分享与讨论活动（录音、录屏、ppt等资源点击‘资料下载’链接即可查阅），包括：
+
+#### 三次优秀学员分享
+*  年度计划推进的经验及感受 @ 拾捌     [资料下载](http://pan.baidu.com/s/1i3wHhUd)
+* 在年目标指导下的一年收获 @ 药山     [资料下载](http://pan.baidu.com/s/1eQz5ptS)
+* 集体分享-我们一起玩年度目标 @ 上海幸福进化俱乐部    [资料下载](http://pan.baidu.com/s/1skfRv3J)
+
+#### 三次社群讨论
+* 社群讨论-我是如何分类的 @ 马琦     [资料下载](http://bbs.upwith.me/club-3713-1-1.html)
+* 社群讨论-如何找到自己的定位 @ 刘志勇     [资料下载](http://bbs.upwith.me/club-3752-1-1.html)
+* 社群讨论-价值观主题讨论 @ 马琦      [资料下载](http://bbs.upwith.me/forum.php?mod=viewthread&tid=3712&extra=page%3D1)
