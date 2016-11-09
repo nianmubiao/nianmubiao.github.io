@@ -98,6 +98,8 @@ permalink: /enroll/
 
 - 如果您为幸福进化俱乐部的发展做出巨大贡献，则可以获得100元Boom券一张以及Only券若干。
 
+##### 本优惠政策最终解释权归幸福进化俱乐部所有。
+
 ## 四、缴费报名方法
 
 ![缴费报名](http://77fm42.com1.z0.glb.clouddn.com/web-jiaofei.jpg)
